@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.exe
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.dll
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\ref\diziler.dll
+C:\Users\Poseidon\Desktop\Pratikler\diziler\bin\Debug\net5.0\diziler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.dll
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\ref\diziler.dll
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
